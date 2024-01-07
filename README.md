@@ -11,7 +11,7 @@ This repository contains a Python implementation of the merge sort algorithm wit
 2. **Clone the repository:**
    ```bash
    git clone https://github.com/Bikaze/inversion-count-merge-sort.git
-3. **Ensure that the integer_list.txt file contains a list of integers, each on a new line.**
+3. **Ensure that the integer_list.txt file contains a list of integers, each on a new line. The one provided contains 100,000 numbers!**
 
 ## Acknowledgments
 - The merge sort algorithm used in this implementation is a classic sorting algorithm known for its efficiency and stability.
